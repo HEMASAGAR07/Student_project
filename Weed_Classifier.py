@@ -65,7 +65,7 @@ for i in range(80):
   file_name = filenames[i]
   label = file_name[0:3]
 
-  if label == 'dog':
+  if label == 'Ofc':
     labels.append(1)
 
   else:
